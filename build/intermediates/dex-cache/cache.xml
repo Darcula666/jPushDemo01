@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\Desktop\jPushDemo01\libs\jpush-android-2.0.5.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="f2c821a0d13219a2e70490085c390bab03fb5953">
+        <dex dex="C:\Users\Administrator\Desktop\jPushDemo01\build\intermediates\pre-dexed\debug\jpush-android-2.0.5-47afb9524e0967c5bbbb330e40dabec7e4f69cce.jar" />
+    </item>
+
+</items>
